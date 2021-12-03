@@ -4,4 +4,4 @@ for learning python syntax
 
 #### a python repo for udemy learning syntax
 
-##### Adding a gain
+# Adding a gain
